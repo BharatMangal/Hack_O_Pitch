@@ -1,7 +1,0 @@
-0 Capsicum
-1 Stapler
-2 Pen
-3 Bottle
-4 Onion
-5 Tomato
-6 Nothing
