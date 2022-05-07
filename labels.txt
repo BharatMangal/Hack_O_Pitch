@@ -1,0 +1,10 @@
+0 Capsicum
+1 Stapler
+2 Pen
+3 Bottle
+4 Onion
+5 Tomato
+6 Nothing
+7 Hanky
+8 Smartphone
+9 PenDrive
